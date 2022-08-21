@@ -9,8 +9,7 @@ function User(){
                 <img src={logo} alt="logo" />
             </div>
             <div className='info'>
-                <p>Let's PLan</p>
-                <a href="#">Logout!</a>
+                <p>Maria Let's PLan </p>
             </div>
         </div>
     )
